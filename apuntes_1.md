@@ -1,4 +1,4 @@
-### Apuntes de la Primera Clase de Programación con Streamlit
+### Apuntes de la Primera Clase de Programación desde el Final
 
 #### Introducción
 En nuestra primera clase, dimos los primeros pasos en el mundo de la programación utilizando Streamlit, una herramienta amigable para crear aplicaciones web interactivas con Python de manera sencilla. Nuestro primer programa fue tan simple como escribir "Hola inmundo!" en la interfaz de Streamlit, pero ofreció una excelente oportunidad para introducir conceptos clave de la programación y poner en contexto su importancia.
@@ -21,7 +21,7 @@ En nuestra primera clase, dimos los primeros pasos en el mundo de la programaci�
 
 #### 4. Descripción Técnica del Primer Programa con Streamlit
 - **`import streamlit as st`:** Este comando importa la biblioteca Streamlit y le asigna el nombre `st`.
-- **`st.write("Hola inmundo!")`:** Este comando utiliza la función `st.write` de Streamlit para mostrar la cadena "Hola mundo!" en la interfaz de la aplicación web.
+- **`st.write("Hola inmundo!")`:** Este comando utiliza la función `st.write` de Streamlit para mostrar la cadena "Hola inmundo!" en la interfaz de la aplicación web.
   - **a. `st`:** Referencia a la biblioteca Streamlit previamente importada.
   - **b. `write`:** Es una función de Streamlit diseñada para mostrar texto y otros elementos en pantalla.
   - **c. `"Hola inmundo!"`:** Es el dato de tipo cadena de texto que queremos desplegar.
@@ -35,7 +35,7 @@ La programación de computadoras ha evolucionado significativamente desde sus in
 - **Década de 1940-1950**: Se desarrollaron las primeras computadoras electrónicas. Los primeros lenguajes eran extremadamente básicos y muy difíciles de usar, como el lenguaje de máquina que consiste en secuencias de ceros y unos.
 - **1957**: Fortran fue uno de los primeros lenguajes de alto nivel desarrollados, permitiendo a los ingenieros escribir código en una forma más legible.
 - **1970s-1980s**: Lenguajes como C y Pascal hicieron posible escribir programas más complejos de manera más estructurada.
-- **1989**: Guido van Rossum, un programador holandés, comenzó a desarrollar Python con el objetivo de ser un lenguaje fácil de leer y aprender, pero potente y flexible.
+- **1989**: Guido van Rossum, un programador holandés, comenzó a desarrollar Python con el objetivo de que sea un lenguaje fácil de leer y aprender, pero potente y flexible.
 
 Python se ha convertido en uno de los lenguajes más populares debido a su simplicidad y versatilidad, ideal para principiantes y expertos.
 
@@ -63,7 +63,7 @@ Python se ha convertido en uno de los lenguajes más populares debido a su simpl
 - **Uso:** C es muy utilizado en sistemas embebidos y aplicaciones que requieren un control muy fino y optimización del hardware, mientras que Python se usa en un mayor espectro de aplicaciones debido a su simplicidad y versatilidad.
 
 **Python vs Otros Lenguajes de Alto Nivel:**
-- **Python vs Java:** Python es más simple y tiene una curva de aprendizaje más baja en comparación con Java, que es más verborreico y estricto. Java, sin embargo, sobresale en aplicaciones empresariales y en el desarrollo de sistemas Android.
+- **Python vs Java:** Python es más simple y tiene una curva de aprendizaje más baja en comparación con Java, que es más verborrágico y estricto. Java, sin embargo, sobresale en aplicaciones empresariales y en el desarrollo de sistemas Android.
 - **Python vs JavaScript:** Aunque ambos lenguajes son fáciles de aprender y utilizar, Python se destaca más en ciencia de datos y automatización, mientras que JavaScript es fundamental para el desarrollo web y aplicaciones frontend con frameworks como React y Angular.
 
 ---
