@@ -1,4 +1,6 @@
-### Apuntes de la Tercera Clase de Programación
+### Apuntes de la Tercera Clase de Programación desde el Final
+
+---
 
 ### 1. Concatenación de Cadenas de Texto
 
