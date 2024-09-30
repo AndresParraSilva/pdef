@@ -34,5 +34,4 @@ El verdadero poder de los widgets reside no solo en la funcionalidad que aportan
 
 ---
 
-En el vasto océano de la programación, los widgets son como herramientas mágicas que permiten a los desarrolladores navegar y construir experiencias interactivas únicas y envolventes. ¡Explora, experimenta y deja que cada widget inspire tu creatividad!
-
+Sigue estudiando y verás que combinando los elementos adecuados, puedes crear una interfaz clara y sencilla, que hará que la interacción con tu programa se sienta tan natural y amena como una conversación con un amigo.
